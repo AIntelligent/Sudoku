@@ -1,11 +1,6 @@
 # HEK Sudoku
 
-Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına
-sahiptir. Üretim algoritması tekrarlı harita üretmektedir ancak _tekrarlı haritanın art arda gelme
-ihtimali neredeyse yoktur_. Oyun; _"Çok Acemi","Acemi","Yeni Öğrenen","İyi Bilen","Usta","Uzman"_ 
-olmak üzere altı (6) farklı seviyeden oluşmaktadır. Oyuncunun hatalı işaretlemeleri görsel uyaranla 
-belirtilir. Oyuncu için "ipucu" özelliği desteklenmiştir. Oyun istenilen aşamada kaydedilebilir ve 
-tekrar yüklenerek kalınan yerden devam edilebilir.
+Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına sahiptir. Üretim algoritması tekrarlı harita üretmektedir ancak _tekrarlı haritanın art arda gelme ihtimali neredeyse yoktur_. Oyun; _"Çok Acemi","Acemi","Yeni Öğrenen","İyi Bilen","Usta","Uzman"_ olmak üzere altı (6) farklı seviyeden oluşmaktadır. Oyuncunun hatalı işaretlemeleri görsel uyaranla belirtilir. Oyuncu için "ipucu" özelliği desteklenmiştir. Oyun istenilen aşamada kaydedilebilir ve tekrar yüklenerek kalınan yerden devam edilebilir.
 
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 04/04/2006 tarihinde, 
     Borland C++Builder 6.0 ile geliştirildi.
