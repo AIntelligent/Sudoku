@@ -1,4 +1,4 @@
-# HEK Sudoku
+# HEK Sudoku version 1.1, 2006
 
 ## TR
 Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına sahiptir.
