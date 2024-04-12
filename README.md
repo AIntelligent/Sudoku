@@ -1,6 +1,6 @@
 # HEK Sudoku version 1.1, 2006
 
-    # TR
+### TR
 Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına sahiptir.
 Üretim algoritması tekrarlı harita üretmektedir ancak _tekrarlı haritanın art arda gelme ihtimali neredeyse yoktur_.
 Oyun; _"Çok Acemi","Acemi","Yeni Öğrenen","İyi Bilen","Usta","Uzman"_ olmak üzere altı (6) farklı seviyeden oluşmaktadır.
