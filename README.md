@@ -20,7 +20,13 @@
 
 # Ekran Görüntüleri / Screenshots
 
-![heksudoku_1](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_1.PNG) ![heksudoku_2](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_2.PNG)
+![heksudoku_1](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_1.PNG)
+![heksudoku_2](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_2.PNG)
+![heksudoku_3](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_3.PNG)
+![heksudoku_4](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_4.PNG)
+![heksudoku_5](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_5.PNG)
+![heksudoku_6](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_6.PNG)
+![heksudoku_7](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_7.PNG)
 
 Hakan Emre KARTAL
 hek@nula.com.tr
