@@ -21,7 +21,7 @@ Oyun istenilen aşamada kaydedilebilir ve tekrar yüklenerek kalınan yerden dev
         * Bazı kişisel bilgiler güncellendi.
         * Borland C++Builder 6.0 ile yeniden derlendi.
 
-## EN
+### EN
 
 It is a simple and beautiful Sudoku game. It has a unique non-recursive sudoku map creation algorithm. 
 The generation algorithm produces a repeating map, but there is almost no chance of a repeating map occurring repeatedly. 
