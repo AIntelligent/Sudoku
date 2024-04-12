@@ -1,5 +1,6 @@
 # HEK Sudoku
 
+## TR
 Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına sahiptir.
 Üretim algoritması tekrarlı harita üretmektedir ancak _tekrarlı haritanın art arda gelme ihtimali neredeyse yoktur_.
 Oyun; _"Çok Acemi","Acemi","Yeni Öğrenen","İyi Bilen","Usta","Uzman"_ olmak üzere altı (6) farklı seviyeden oluşmaktadır.
@@ -8,9 +9,6 @@ Oyun istenilen aşamada kaydedilebilir ve tekrar yüklenerek kalınan yerden dev
 
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 04/04/2006 tarihinde, 
     Borland C++Builder 6.0 ile geliştirildi.
-        
-    Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/04/2006,
-    developed with Borland C++Builder 6.0
 
     04/04/2006
         * Üretildi
@@ -22,6 +20,28 @@ Oyun istenilen aşamada kaydedilebilir ve tekrar yüklenerek kalınan yerden dev
     10/04/2024
         * Bazı kişisel bilgiler güncellendi.
         * Borland C++Builder 6.0 ile yeniden derlendi.
+
+## EN
+
+It is a simple and beautiful Sudoku game. It has a unique non-recursive sudoku map creation algorithm. 
+The generation algorithm produces a repeating map, but there is almost no chance of a repeating map occurring repeatedly. 
+Game; It consists of six (6) different levels: "Very Beginner", "Novice", "New Student", "Good Knowledge", "Master" and "Expert".
+The player's incorrect markings are indicated by visual stimuli. Supported "hint" feature for player. 
+The game can be saved at any stage and reloaded to continue where it left off.
+
+    Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/04/2006,
+    developed with Borland C++Builder 6.0
+
+    04/04/2006
+        * Produced
+    23/04/2006
+        * Some fixes added.
+        * Changed Sudoku map generator random number generator value.
+        * Changed left vertical title bar color and status bar colors.
+        * It has been given its final form.
+    10/04/2024
+        * Some personal data has been updated.
+        * Recompiled with Borland C++Builder 6.0.
       
 # Ekran Görüntüleri / Screenshots
 
