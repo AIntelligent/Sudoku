@@ -20,7 +20,7 @@
 
 # Ekran Görüntüleri / Screenshots
 
-[heksudoku_1](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_1.PNG)
+![heksudoku_1](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_1.PNG)
 
 Hakan Emre KARTAL
 hek@nula.com.tr
