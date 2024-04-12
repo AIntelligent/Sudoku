@@ -13,7 +13,7 @@ tekrar yüklenerek kalınan yerden devam edilebilir.
     Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/04/2006,
     developed with Borland C++Builder 6.0
 
-- 04/04/2006
+    04/04/2006
         * Üretildi
     23/04/2006
         * Bazı düzeltmeler eklendi.
