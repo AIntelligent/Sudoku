@@ -18,5 +18,9 @@
   Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/04/2006,
   developed with Borland C++Builder 6.0
 
+# Ekran Görüntüleri / Screenshots
+
+[heksudoku_1](https://github.com/AIntelligent/Sudoku/blob/cacbca8bcb2f9034c1c271ccf90bc06fac5753dc/screenshots/heksudoku_1.PNG)
+
 Hakan Emre KARTAL
 hek@nula.com.tr
