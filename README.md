@@ -1,6 +1,6 @@
 # HEK Sudoku version 1.1, 2006
 
-[![DOI](https://zenodo.org/badge/785845419.svg)](https://doi.org/10.5281/zenodo.16886278)
+### İndir/Download: [![DOI](https://zenodo.org/badge/785845419.svg)](https://doi.org/10.5281/zenodo.16886278)
 
 ### TR
 Basit ve güzel bir Sudoku oyunudur. Özyinelemesiz özgün bir sudoku haritası üretim algoritmasına sahiptir.
